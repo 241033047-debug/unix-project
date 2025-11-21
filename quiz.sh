@@ -1,7 +1,5 @@
 #!/bin/bash
-
 QUESTIONS_FILE="questionspr.txt"
-
 start_quiz() {
   score=0
   total=0

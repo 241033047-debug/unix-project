@@ -1,0 +1,10 @@
+What is the capital of France? | 1) Paris  2) London  3) Rome  4) Berlin | 1
+Which planet is known as the Red Planet? | 1) Venus  2) Mars  3) Jupiter  4) Saturn | 2
+What is the largest mammal? | 1) Elephant  2) Blue Whale  3) Giraffe  4) Hippopotamus | 2
+Who wrote 'Hamlet'? | 1) Charles Dickens  2) Mark Twain  3) William Shakespeare  4) Jane Austen | 3
+Which gas do plants absorb for photosynthesis? | 1) Nitrogen  2) Carbon Dioxide  3) Oxygen  4) Hydrogen | 2
+What is the boiling point of water at sea level? | 1) 100°C  2) 50°C  3) 212°C  4) 80°C | 1
+Which ocean is the largest? | 1) Atlantic Ocean  2) Indian Ocean  3) Southern Ocean  4) Pacific Ocean | 4
+How many continents are there? | 1) Five  2) Six  3) Seven  4) Eight | 3
+Who painted the Mona Lisa? | 1) Vincent van Gogh  2) Pablo Picasso  3) Leonardo da Vinci  4) Michelangelo | 3
+What is the smallest prime number? | 1) 0  2) 1  3) 2  4) 3 | 3
